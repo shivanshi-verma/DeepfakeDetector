@@ -1,4 +1,4 @@
-<img width="791" height="863" alt="image" src="https://github.com/user-attachments/assets/e755190e-7f45-4a13-aa51-18dc30c1d196" />DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI
+DeepFake-Detection-and-Prevention-A-Comprehensive-approach-using-AI
 
 Table of Contents:
 •	Introduction
@@ -29,15 +29,13 @@ Usage:
 
 Result Snapshots
 The project's introduction and goal are displayed in the front-end user interface (UI) of the model, which is displayed when we run the command streamlit run app.py.
-
-
+<img width="791" height="863" alt="image" src="https://github.com/user-attachments/assets/e755190e-7f45-4a13-aa51-18dc30c1d196" />
 Then, in order for the user to determine if an image is real or fake, they must select one from the testing images that have been trained into the model.
-
-
+<img width="770" height="876" alt="image" src="https://github.com/user-attachments/assets/ba79b150-861d-4bed-9d06-b56c8d29b9dd" />
 The model will identify the selected image for detection as real if it is, and it will provide the outcome as real along with an explanation of why it is real.
-
-
+<img width="933" height="862" alt="image" src="https://github.com/user-attachments/assets/433214d2-bc12-47be-bb98-53ff94765bd9" />
 The model will identify the selected image for detection as fake and present the output as fake along with an explanation of why it is fake.
+<img width="905" height="880" alt="image" src="https://github.com/user-attachments/assets/d5605961-96bf-4e2b-8f94-72724fe5a7d2" />
 
 
 Tools
